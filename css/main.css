@@ -20,9 +20,8 @@ figure {
 img {
 	max-width: 100%;
 	display: block;
-	height: auto;
+	max-height: auto;
 }
-
 
 /* 3.1 site structure */
 .wrapper {
@@ -137,10 +136,6 @@ img {
 
 .col-1-12 {
 	width: 8.33%;
-}
-
-.col-1-13 {
-	width: 7.69%;
 }
 
 .col-1-13 {
